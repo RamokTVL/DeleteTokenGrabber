@@ -1,0 +1,7 @@
+C:\Users\RR\source\repos\DeleteGrab\bin\Debug\DeleteGrab.exe.config
+C:\Users\RR\source\repos\DeleteGrab\bin\Debug\DeleteGrab.exe
+C:\Users\RR\source\repos\DeleteGrab\bin\Debug\DeleteGrab.pdb
+C:\Users\RR\source\repos\DeleteGrab\obj\Debug\DeleteGrab.csprojAssemblyReference.cache
+C:\Users\RR\source\repos\DeleteGrab\obj\Debug\DeleteGrab.csproj.CoreCompileInputs.cache
+C:\Users\RR\source\repos\DeleteGrab\obj\Debug\DeleteGrab.exe
+C:\Users\RR\source\repos\DeleteGrab\obj\Debug\DeleteGrab.pdb
